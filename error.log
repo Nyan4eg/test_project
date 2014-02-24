@@ -1,0 +1,18 @@
+[Mon Feb 24 13:28:34.951081 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51297] PHP Warning:  require_once(C:\\wamp\\www\\test1/../framework/yii.php): failed to open stream: No such file or directory in C:\\wamp\\www\\test1\\index.php on line 12
+[Mon Feb 24 13:28:34.952082 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51297] PHP Stack trace:
+[Mon Feb 24 13:28:34.952082 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51297] PHP   1. {main}() C:\\wamp\\www\\test1\\index.php:0
+[Mon Feb 24 13:28:34.952082 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51297] PHP Fatal error:  require_once(): Failed opening required 'C:\\wamp\\www\\test1/../framework/yii.php' (include_path='.;C:\\php\\pear') in C:\\wamp\\www\\test1\\index.php on line 12
+[Mon Feb 24 13:28:34.952082 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51297] PHP Stack trace:
+[Mon Feb 24 13:28:34.952082 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51297] PHP   1. {main}() C:\\wamp\\www\\test1\\index.php:0
+[Mon Feb 24 13:28:54.922216 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Warning:  require_once(C:\\wamp\\www\\test1/framework/yii.php): failed to open stream: No such file or directory in C:\\wamp\\www\\test1\\index.php on line 12
+[Mon Feb 24 13:28:54.922216 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Stack trace:
+[Mon Feb 24 13:28:54.922216 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP   1. {main}() C:\\wamp\\www\\test1\\index.php:0
+[Mon Feb 24 13:28:54.922216 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Fatal error:  require_once(): Failed opening required 'C:\\wamp\\www\\test1/framework/yii.php' (include_path='.;C:\\php\\pear') in C:\\wamp\\www\\test1\\index.php on line 12
+[Mon Feb 24 13:28:54.922216 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Stack trace:
+[Mon Feb 24 13:28:54.922216 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP   1. {main}() C:\\wamp\\www\\test1\\index.php:0
+[Mon Feb 24 13:28:56.443949 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Warning:  require_once(C:\\wamp\\www\\test1/framework/yii.php): failed to open stream: No such file or directory in C:\\wamp\\www\\test1\\index.php on line 12
+[Mon Feb 24 13:28:56.443949 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Stack trace:
+[Mon Feb 24 13:28:56.443949 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP   1. {main}() C:\\wamp\\www\\test1\\index.php:0
+[Mon Feb 24 13:28:56.443949 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Fatal error:  require_once(): Failed opening required 'C:\\wamp\\www\\test1/framework/yii.php' (include_path='.;C:\\php\\pear') in C:\\wamp\\www\\test1\\index.php on line 12
+[Mon Feb 24 13:28:56.443949 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP Stack trace:
+[Mon Feb 24 13:28:56.444949 2014] [:error] [pid 8008:tid 1656] [client 127.0.0.1:51315] PHP   1. {main}() C:\\wamp\\www\\test1\\index.php:0
